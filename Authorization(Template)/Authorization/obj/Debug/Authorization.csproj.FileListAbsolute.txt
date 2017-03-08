@@ -1,0 +1,93 @@
+E:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\bin\Debug\Authorization.exe.config
+E:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\bin\Debug\Authorization.exe
+E:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\bin\Debug\Authorization.pdb
+E:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.Properties.Resources.resources
+E:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.csproj.GenerateResource.Cache
+E:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.exe
+E:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.pdb
+E:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.AutorizForm.resources
+E:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.RegistrForm.resources
+E:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.MainForm.resources
+E:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.PasswordForm.resources
+K:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\bin\Debug\Authorization.exe.config
+K:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.exe
+K:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.pdb
+K:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\bin\Debug\Authorization.exe
+K:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\bin\Debug\Authorization.pdb
+K:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.csprojResolveAssemblyReference.cache
+K:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.AutorizForm.resources
+K:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.MainForm.resources
+K:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.PasswordForm.resources
+K:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.Properties.Resources.resources
+K:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.RegistrForm.resources
+K:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.csproj.GenerateResource.Cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\bin\Debug\Authorization.exe.config
+Q:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\2. Windows Forms\Day8 Создание дополнительных форм ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.pdb
+Q:\_Работа (нов)\_ITstep\_Учебный материал\5.ADO.NET\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\bin\Debug\Authorization.exe.config
+Q:\_Работа (нов)\_ITstep\_Учебный материал\5.ADO.NET\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\5.ADO.NET\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.pdb
+Q:\_Работа (нов)\_ITstep\_Учебный материал\5.ADO.NET\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.AutorizForm.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\5.ADO.NET\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.MainForm.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\5.ADO.NET\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.PasswordForm.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\5.ADO.NET\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.Properties.Resources.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\5.ADO.NET\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.RegistrForm.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\5.ADO.NET\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.csproj.GenerateResource.Cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\5.ADO.NET\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\bin\Debug\Authorization.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\5.ADO.NET\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\bin\Debug\Authorization.pdb
+Q:\_Работа (нов)\_ITstep\_Учебный материал\5.ADO.NET\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.csprojResolveAssemblyReference.cache
+E:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\bin\Debug\Authorization.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization\Authorization\obj\Debug\Authorization.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization(Template)\Authorization\bin\Debug\Authorization.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization(Template)\Authorization\obj\Debug\Authorization.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization(Template)\Authorization\obj\Debug\Authorization.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization(Template)\Authorization\bin\Debug\Authorization.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization(Template)\Authorization\bin\Debug\Authorization.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization(Template)\Authorization\obj\Debug\Authorization.csprojResolveAssemblyReference.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization(Template)\Authorization\obj\Debug\Authorization.AutorizForm.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization(Template)\Authorization\obj\Debug\Authorization.MainForm.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization(Template)\Authorization\obj\Debug\Authorization.PasswordForm.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization(Template)\Authorization\obj\Debug\Authorization.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization(Template)\Authorization\obj\Debug\Authorization.RegistrForm.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day2 Присоединенный режим  Ч.1\_Tasks(AdditionallyForms)\Authorization(Template)\Authorization\obj\Debug\Authorization.csproj.GenerateResource.Cache
+E:\ADO.NET\Day2\Authorization(Template)\Authorization\bin\Debug\Authorization.exe.config
+E:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.exe
+E:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.pdb
+E:\ADO.NET\Day2\Authorization(Template)\Authorization\bin\Debug\Authorization.exe
+E:\ADO.NET\Day2\Authorization(Template)\Authorization\bin\Debug\Authorization.pdb
+E:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.csprojResolveAssemblyReference.cache
+E:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.AutorizForm.resources
+E:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.MainForm.resources
+E:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.PasswordForm.resources
+E:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.Properties.Resources.resources
+E:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.RegistrForm.resources
+E:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.csproj.GenerateResource.Cache
+G:\ADO.NET\Day2\Authorization(Template)\Authorization\bin\Debug\Authorization.exe.config
+G:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.exe
+G:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.pdb
+G:\ADO.NET\Day2\Authorization(Template)\Authorization\bin\Debug\Authorization.exe
+G:\ADO.NET\Day2\Authorization(Template)\Authorization\bin\Debug\Authorization.pdb
+G:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.csprojResolveAssemblyReference.cache
+G:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.AutorizForm.resources
+G:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.MainForm.resources
+G:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.PasswordForm.resources
+G:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.Properties.Resources.resources
+G:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.RegistrForm.resources
+G:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.csproj.GenerateResource.Cache
+F:\ADO.NET\Day2\Authorization(Template)\Authorization\bin\Debug\Authorization.exe.config
+F:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.exe
+F:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.pdb
+F:\ADO.NET\Day2\Authorization(Template)\Authorization\bin\Debug\Authorization.exe
+F:\ADO.NET\Day2\Authorization(Template)\Authorization\bin\Debug\Authorization.pdb
+F:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.csprojResolveAssemblyReference.cache
+F:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.AutorizForm.resources
+F:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.MainForm.resources
+F:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.PasswordForm.resources
+F:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.Properties.Resources.resources
+F:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.RegistrForm.resources
+F:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.csproj.GenerateResource.Cache
+F:\ADO.NET\Day2\Authorization(Template)\Authorization\obj\Debug\Authorization.DeleteUsersForm.resources
+C:\Users\User\Downloads\Authorization(Template)\Authorization\bin\Debug\Authorization.exe.config
+C:\Users\User\Downloads\Authorization(Template)\Authorization\obj\Debug\Authorization.exe
+C:\Users\User\Downloads\Authorization(Template)\Authorization\obj\Debug\Authorization.pdb
